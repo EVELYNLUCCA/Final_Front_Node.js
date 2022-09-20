@@ -1,0 +1,10 @@
+.banner{
+        background-image: url(../Images/ba1.jpg);
+        background-size: cover;
+        position: relative;
+    }
+
+.banner {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
+}

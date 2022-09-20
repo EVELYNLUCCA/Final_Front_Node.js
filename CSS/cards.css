@@ -1,0 +1,12 @@
+.card-img{
+    border-radius: 2px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+.card-img:hover{
+    transform: scale(1.2);
+}
+.card-body{
+    padding: 16 px;
+    margin:0;
+}
