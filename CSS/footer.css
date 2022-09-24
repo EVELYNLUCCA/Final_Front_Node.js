@@ -5,6 +5,8 @@
 
 .navbar{
     background-color: rgb(33, 76, 100);
-    font-size: 13.5px;
 } 
 
+#navbarFooter {
+    font-size: 13.5px;
+}
