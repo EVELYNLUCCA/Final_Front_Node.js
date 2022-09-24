@@ -1,0 +1,10 @@
+.container-fluid .nav .nav-item a:hover{
+    color: rgb(25, 135, 84); 
+}
+
+
+.navbar{
+    background-color: rgb(33, 76, 100);
+    font-size: 13.5px;
+} 
+

@@ -2,9 +2,11 @@
         background-image: url(../Images/ba1.jpg);
         background-size: cover;
         position: relative;
+        background-color: rgba(0, 0, 0, 0.522); 
+        background-blend-mode: multiply;
     }
-
-.banner {
-    --bs-text-opacity: 1;
-    color: rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important;
-}
+    
+.banner-info{
+        font-weight: 400;
+    }
+    
